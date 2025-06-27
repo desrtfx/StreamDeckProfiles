@@ -9,8 +9,7 @@ A collection of `Stream Deck` profiles for a number of applications.
 - Gimp:
     - Stream Deck XL: coming soon...
 - Shapez2:
-    - Stream Deck XL: coming soon...
-    <!-- - [Stream Deck XL](Shapez2/StreamDeckXL/README.md) -->
+    - [Stream Deck XL](Shapez2/StreamDeckXL/README.md)
 - Timberborn:
     - [Stream Deck XL](Timberborn/StreamDeckXL/README.md)
 
