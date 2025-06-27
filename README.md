@@ -12,8 +12,7 @@ A collection of `Stream Deck` profiles for a number of applications.
     - Stream Deck XL: coming soon...
     <!-- - [Stream Deck XL](Shapez2/StreamDeckXL/README.md) -->
 - Timberborn:
-    - Stream Deck XL: coming soon...
-    <!-- - [Stream Deck XL](Timberborn/StreamDeckXL/README.md) -->
+    - [Stream Deck XL](Timberborn/StreamDeckXL/README.md)
 
 ## How to use
 
