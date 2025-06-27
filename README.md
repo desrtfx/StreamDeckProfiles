@@ -29,11 +29,11 @@ Alternatevely, you can <a href="https://help.elgato.com/hc/en-us/articles/360048
 
 As per the [license](LICENSE.md), you're free to modify the profiles as you see fit in order to tailor them to your specific work/play style and specific key mappings.
 
-For your convenience, all icons used (and sometimes more) are available directly in the `icons` folder of each application directory.
+Although all icons are extractable directly from the profile files, for your convenience, all icons used (and sometimes more) are available directly in the `icons` folder of each application directory.
 
-## Issues
+## Feedback, Issues & Requests
 
-Please submit any suggestions, issues, or icon requests via the <a href="https://github.com/JustaDevOnTheMove/StreamDeckProfiles/issues" target="_blank">issues tab</a> here on github.
+Please submit any feedback, suggestions, issues, icon requests, etc... via the <a href="https://github.com/JustaDevOnTheMove/StreamDeckProfiles/issues" target="_blank">issues tab</a> here on github.
 
 ## Contributing
 
