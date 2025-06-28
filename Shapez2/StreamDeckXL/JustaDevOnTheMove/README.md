@@ -32,43 +32,43 @@ The goal was to also remove the need to use the keyboard leaving you with one ha
 
 ### Default homepage
 
-<img src="v1/screenshots/shapez2-01-default.png" alt="Stream Deck XL - Shapez2 - Default" height="210" />
+<img src="v1/screenshots/shapez2-01-default.png" alt="Stream Deck XL - Shapez2 - Default" width="425" />
 
 ### Shapes
 
-<img src="v1/screenshots/shapez2-02-shape.png" alt="Stream Deck XL - Shapez2 - Shapes" height="210" />
+<img src="v1/screenshots/shapez2-02-shape.png" alt="Stream Deck XL - Shapez2 - Shapes" width="425" />
 
 ### Fluids
 
-<img src="v1/screenshots/shapez2-03-fluid.png" alt="Stream Deck XL - Shapez2 - Fluids" height="210" />
+<img src="v1/screenshots/shapez2-03-fluid.png" alt="Stream Deck XL - Shapez2 - Fluids" width="425" />
 
 ### Electronics
 
-<img src="v1/screenshots/shapez2-04-elec.png" alt="Stream Deck XL - Shapez2 - Electronics" height="210" />
+<img src="v1/screenshots/shapez2-04-elec.png" alt="Stream Deck XL - Shapez2 - Electronics" width="425" />
 
 ### Logic
 
-<img src="v1/screenshots/shapez2-05-logic.png" alt="Stream Deck XL - Shapez2 - Logic" height="210" />
+<img src="v1/screenshots/shapez2-05-logic.png" alt="Stream Deck XL - Shapez2 - Logic" width="425" />
 
 ### Simulation
 
-<img src="v1/screenshots/shapez2-06-sim.png" alt="Stream Deck XL - Shapez2 - Simulation" height="210" />
+<img src="v1/screenshots/shapez2-06-sim.png" alt="Stream Deck XL - Shapez2 - Simulation" width="425" />
 
 ### Space
 
-<img src="v1/screenshots/shapez2-07-space.png" alt="Stream Deck XL - Shapez2 - Space" height="210" />
+<img src="v1/screenshots/shapez2-07-space.png" alt="Stream Deck XL - Shapez2 - Space" width="425" />
 
 ### Trains
 
-<img src="v1/screenshots/shapez2-08-train.png" alt="Stream Deck XL - Shapez2 - Trains" height="210" />
+<img src="v1/screenshots/shapez2-08-train.png" alt="Stream Deck XL - Shapez2 - Trains" width="425" />
 
 ### Blueprints
 
-<img src="v1/screenshots/shapez2-09-blueprint.png" alt="Stream Deck XL - Shapez2 - Blueprints" height="210" />
+<img src="v1/screenshots/shapez2-09-blueprint.png" alt="Stream Deck XL - Shapez2 - Blueprints" width="425" />
 
 ### Favourites
 
-<img src="v1/screenshots/shapez2-10-favourite.png" alt="Stream Deck XL - Shapez2 - Favourites" height="210" />
+<img src="v1/screenshots/shapez2-10-favourite.png" alt="Stream Deck XL - Shapez2 - Favourites" width="425" />
 
 This folder is totally optional and is intended to allow you to place here up to 16 of your current most used items. Fill it with whatever you want or delete the folder entirely, it's up to you.
 

@@ -11,7 +11,7 @@ A `Stream Deck XL` profile for the game `Timberborn`.
 
 ## Profile description
 
-<img src="v1/screenshots/timberborn.png" alt="Stream Deck XL - Timberborn" height="210" />
+<img src="v1/screenshots/timberborn.png" alt="Stream Deck XL - Timberborn" width="425" />
 
 ## Download
 

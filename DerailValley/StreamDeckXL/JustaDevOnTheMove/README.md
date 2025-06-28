@@ -68,45 +68,45 @@ So far I've only implemented the DE2 and the DE6. The others will be available a
 
 ### Home page
 
-<img src="v1/screenshots/diesel-01-home.png" alt="Stream Deck XL - Diesel - Homepage" height="210" />
+<img src="v1/screenshots/diesel-01-home.png" alt="Stream Deck XL - Diesel - Homepage" width="425" />
 
 ### Jobs folder
 
 The jobs page is accessible from almost everywhere via the top-left corner button. It's very likely that you'll need to adjust the key mapping for these to match your particular gameplay. For example, I don't have access to the world map as I know it be heart, as such it was just taking up unnecessary space and allowed me to have 1 extra job slot (5 → -).
 
-<img src="v1/screenshots/diesel-02-jobs.png" alt="Stream Deck XL - Diesel - Jobs" height="210" />
+<img src="v1/screenshots/diesel-02-jobs.png" alt="Stream Deck XL - Diesel - Jobs" width="425" />
 
 ### DE2
 
 #### Shunt mode
 
-<img src="v1/screenshots/diesel-03-de2-shunt.png" alt="Stream Deck XL - Diesel - DE2 Shunt" height="210" />
+<img src="v1/screenshots/diesel-03-de2-shunt.png" alt="Stream Deck XL - Diesel - DE2 Shunt" width="425" />
 
 #### Mainline running mode
 
-<img src="v1/screenshots/diesel-04-de2-run.png" alt="Stream Deck XL - Diesel - DE2 Run" height="210" />
+<img src="v1/screenshots/diesel-04-de2-run.png" alt="Stream Deck XL - Diesel - DE2 Run" width="425" />
 
 #### Buttons and switches folder
 
 This folder is accessible via this button: &nbsp;&nbsp;&nbsp;<img src="../../images/icons/switches-combo-icon.png" alt="Buttons" width="20" height="20" />
 
-<img src="v1/screenshots/diesel-05-de2-buttons.png" alt="Stream Deck XL - Diesel - DE2 Buttons" height="210" />
+<img src="v1/screenshots/diesel-05-de2-buttons.png" alt="Stream Deck XL - Diesel - DE2 Buttons" width="425" />
 
 ### DE6
 
 #### Shunt mode
 
-<img src="v1/screenshots/diesel-06-de6-shunt.png" alt="Stream Deck XL - Diesel - DE6 Shunt" height="210" />
+<img src="v1/screenshots/diesel-06-de6-shunt.png" alt="Stream Deck XL - Diesel - DE6 Shunt" width="425" />
 
 #### Mainline running mode
 
-<img src="v1/screenshots/diesel-07-de6-run.png" alt="Stream Deck XL - Diesel - DE6 Run" height="210" />
+<img src="v1/screenshots/diesel-07-de6-run.png" alt="Stream Deck XL - Diesel - DE6 Run" width="425" />
 
 #### Buttons and switches folder
 
 This folder is accessible via this button: &nbsp;&nbsp;&nbsp;<img src="../../images/icons/switches-combo-icon.png" alt="Buttons" width="20" height="20" />
 
-<img src="v1/screenshots/diesel-08-de6-buttons.png" alt="Stream Deck XL - Diesel - DE6 Buttons" height="210" />
+<img src="v1/screenshots/diesel-08-de6-buttons.png" alt="Stream Deck XL - Diesel - DE6 Buttons" width="425" />
 
 ## Electric
 
@@ -114,7 +114,7 @@ Other than the BE2 this profile is just a placehold really until the next update
 
 ### Home page
 
-<img src="v1/screenshots/electric-01-home.png" alt="Stream Deck XL - Electric - Homepage" height="210" />
+<img src="v1/screenshots/electric-01-home.png" alt="Stream Deck XL - Electric - Homepage" width="425" />
 
 ## Steam
 
@@ -122,7 +122,7 @@ None of the steam profiles have been setup as I've not ventured into that part o
 
 ### Home page
 
-<img src="v1/screenshots/steam-01-home.png" alt="Stream Deck XL - Steam - Homepage" height="210" />
+<img src="v1/screenshots/steam-01-home.png" alt="Stream Deck XL - Steam - Homepage" width="425" />
 
 ## Download
 
