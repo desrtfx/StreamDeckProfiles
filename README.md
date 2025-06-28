@@ -8,6 +8,8 @@ A collection of `Stream Deck` profiles for a number of applications.
     - [Stream Deck XL](DerailValley/StreamDeckXL/README.md)
 - Gimp:
     - Stream Deck XL: coming soon...
+- Infinifactory:
+    - [Stream Deck XL](Infinifactory/StreamDeckXL/README.md)
 - Shapez2:
     - [Stream Deck XL](Shapez2/StreamDeckXL/README.md)
 - Timberborn:
