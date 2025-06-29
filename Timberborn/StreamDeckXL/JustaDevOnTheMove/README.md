@@ -18,6 +18,6 @@ A `Stream Deck XL` profile for the game `Timberborn`.
 - Latest version as individual file:
     - [Latest version](v1/Timberborn.streamDeckProfile)
 - Latest version as a zip file:
-    - [Timberborn-StreamDeckProfiles-1-0-0.zip](v1/Timberborn-StreamDeckProfiles-1-0-0.zip)
+    - [Timberborn-StreamDeckProfiles-1-0-1.zip](v1/Timberborn-StreamDeckProfiles-1-0-1.zip)
 - Older versions as a zip file:
-    - none yet
+    - [Timberborn-StreamDeckProfiles-1-0-0.zip](v1/Timberborn-StreamDeckProfiles-1-0-0.zip)
