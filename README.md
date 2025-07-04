@@ -11,7 +11,7 @@ A collection of `Stream Deck` profiles for a number of applications.
 - Infinifactory:
     - [Stream Deck XL](Infinifactory/StreamDeckXL/README.md)
 - Railgrade:
-    - Stream Deck XL: coming next!
+    - [Stream Deck XL](Railgrade/StreamDeckXL/README.md)
 - Shapez2:
     - [Stream Deck XL](Shapez2/StreamDeckXL/README.md)
 - Timberborn:
@@ -42,6 +42,24 @@ Please submit any feedback, suggestions, issues, icon requests, etc... via the <
 ## Contributing
 
 Contributions are welcome. If you would like to contribute to this collection of Stream Deck profiles, please submit a pull request.
+
+
+## File structure
+
+```
+- <Application Name>
+    - images
+        - backgrounds
+        - icons
+    - <Github Username>
+        - <Main Version Identifier>
+            - screenshots
+            - <StreamDeck Profile files>
+        - <Contributor README>
+    - <Application README>
+```
+
+## Contact
 
 If you need to, you can also reach out to me on:
 
