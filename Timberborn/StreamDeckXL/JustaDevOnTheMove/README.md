@@ -11,6 +11,8 @@ A `Stream Deck XL` profile for the game `Timberborn`.
 
 ## Profile description
 
+This is a simple icons only profile, meaning that there is nothing complex going on, it's simply keyboard shortcuts decorated with pretty icons.
+
 <img src="v1/screenshots/timberborn.png" alt="Stream Deck XL - Timberborn" width="425" />
 
 ## Download
