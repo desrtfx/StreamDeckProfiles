@@ -4,7 +4,7 @@ A collection of `Stream Deck` profiles for a number of applications.
 
 ## Applications
 
-<table width="100%">
+<table>
     <thead>
         <tr>
             <th>Title</th>
@@ -48,8 +48,14 @@ A collection of `Stream Deck` profiles for a number of applications.
             <td><br />27 June 2025</td>
             <td><br />29 June 2025</td>
         </tr>
+        <tr>
+            <td colspan="2"><br />Also available: <a href="Generic/README.md">a generic collection of icons and backgrounds</a></td>
+            <td><br />15 July 2025</td>
+        </tr>
     </tbody>
 </table>
+
+
 
 ## How to use
 
@@ -106,4 +112,4 @@ Contributions are welcome. If you would like to contribute to this collection of
 
 If you need to, you can also reach out to me on:
 
-- [Reddit: u/JustaDevOnTheMove](https://www.reddit.com/user/JustaDevOnTheMove/)
+- Reddit: [u/JustaDevOnTheMove](https://www.reddit.com/user/JustaDevOnTheMove/)
