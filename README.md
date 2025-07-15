@@ -10,6 +10,8 @@ A collection of `Stream Deck` profiles for a number of applications.
     - Stream Deck XL: coming soon...
 - Infinifactory:
     - [Stream Deck XL](Infinifactory/StreamDeckXL/README.md)
+- Oxygen Not Included:
+    - [Stream Deck XL](OxygenNotIncluded/StreamDeckXL/README.md)
 - Railgrade:
     - [Stream Deck XL](Railgrade/StreamDeckXL/README.md)
 - Shapez2:
