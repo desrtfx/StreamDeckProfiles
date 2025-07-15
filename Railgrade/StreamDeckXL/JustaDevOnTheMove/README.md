@@ -11,6 +11,8 @@
 
 ## Profile
 
+This is a simple icons only profile, meaning that there is nothing complex going on, it's simply keyboard shortcuts decorated with pretty icons.
+
 <img src="v1/screenshots/railgrade-home.png" alt="Stream Deck XL - Railgrade - Homepage" width="425" />
 
 ## Download
