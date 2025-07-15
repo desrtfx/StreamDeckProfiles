@@ -4,20 +4,52 @@ A collection of `Stream Deck` profiles for a number of applications.
 
 ## Applications
 
-- Derail Valley:
-    - [Stream Deck XL](DerailValley/StreamDeckXL/README.md)
-- Gimp:
-    - Stream Deck XL: coming soon...
-- Infinifactory:
-    - [Stream Deck XL](Infinifactory/StreamDeckXL/README.md)
-- Oxygen Not Included:
-    - [Stream Deck XL](OxygenNotIncluded/StreamDeckXL/README.md)
-- Railgrade:
-    - [Stream Deck XL](Railgrade/StreamDeckXL/README.md)
-- Shapez2:
-    - [Stream Deck XL](Shapez2/StreamDeckXL/README.md)
-- Timberborn:
-    - [Stream Deck XL](Timberborn/StreamDeckXL/README.md)
+<table width="100%">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Created</th>
+            <th>Updated</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Derail Valley<br />- <a href="DerailValley/StreamDeckXL/README.md">Stream Deck XL</a></td>
+            <td><br />6 June 2025</td>
+            <td><br />-</td>
+        </tr>
+        <tr>
+            <td>Gimp<br />- coming soon</td>
+            <td><br />-</td>
+            <td><br />-</td>
+        </tr>
+        <tr>
+            <td>Infinifactory<br />- <a href="Infinifactory/StreamDeckXL/README.md">Stream Deck XL</a></td>
+            <td><br />28 June 2025</td>
+            <td><br />-</td>
+        </tr>
+        <tr>
+            <td>Oxygen Not Included<br />- <a href="OxygenNotIncluded/StreamDeckXL/README.md">Stream Deck XL</a></td>
+            <td><br />15 July 2025</td>
+            <td><br />-</td>
+        </tr>
+        <tr>
+            <td>Railgrade<br />- <a href="Railgrade/StreamDeckXL/README.md">Stream Deck XL</a></td>
+            <td><br />4 July 2025</td>
+            <td><br />-</td>
+        </tr>
+        <tr>
+            <td>Shapez2<br />- <a href="Shapez2/StreamDeckXL/README.md">Stream Deck XL</a></td>
+            <td><br />27 June 2025</td>
+            <td><br />-</td>
+        </tr>
+        <tr>
+            <td>Timberborn<br />- <a href="Timberborn/StreamDeckXL/README.md">Stream Deck XL</a></td>
+            <td><br />27 June 2025</td>
+            <td><br />29 June 2025</td>
+        </tr>
+    </tbody>
+</table>
 
 ## How to use
 
