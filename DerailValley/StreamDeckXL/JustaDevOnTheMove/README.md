@@ -66,8 +66,6 @@ The orange <img src="../../images/icons/nav-back-orange.png" alt="Back" width="2
 
 ## Diesel
 
-So far I've only implemented the DE2 and the DE6. The others will be available at some point in the near future.
-
 ### Home page
 
 <img src="v1/screenshots/diesel-01-home.png" alt="Stream Deck XL - Diesel - Homepage" width="425" />
