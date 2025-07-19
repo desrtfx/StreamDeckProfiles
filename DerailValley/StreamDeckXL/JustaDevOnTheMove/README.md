@@ -178,7 +178,7 @@ Other than the BE2 this profile is just a placehold really until the next update
 
 ## Steam
 
-None of the steam profiles have been setup as I've not ventured into that part of the game yet. I hope to be able to do so soon.
+Here are my early versions of my steam profiles. Some of the buttons have weird icons, it's really hard to find meaningful icons for some of the actions. I'm open to suggestions!
 
 ### Home page
 
@@ -238,7 +238,7 @@ The jobs page is accessible from almost everywhere via the top-left corner butto
 
 #### Switches and Buttons
 
-This folder is accessible via this button: &nbsp;&nbsp;&nbsp;<img src="../../images/icons/switches-combo-icon.png" alt="Buttons" width="20" height="20" />
+This folder is accessible via this button: &nbsp;&nbsp;&nbsp;<img src="../../images/icons/submenu-switches-combo.png" alt="Buttons" width="32" height="32" />
 
 These folders are specific to the active locomotive, for example:
 
@@ -258,7 +258,9 @@ These folders are specific to the active locomotive, for example:
 
 #### Player positioning
 
-In some profiles where space was insufficient, I had to some buttons into a subfolder. In this instance, function like `sit`, `crouch` and `lean` have been moved into a subfolder (icon and screenshot coming very soon).
+In some profiles where space was insufficient, I had to some buttons into a subfolder. In this instance, function like `sit`, `crouch` and `lean` have been moved into a subfolder accessible via this button: &nbsp;&nbsp;&nbsp;<img src="../../images/icons/submenu-user-positions.png" alt="Buttons" width="32" height="32" />
+
+(screenshot coming very soon).
 
 <!--
 This folder is accessible via this button: &nbsp;&nbsp;&nbsp;<img src="../../images/icons/switches-combo-icon.png" alt="Buttons" width="20" height="20" />
