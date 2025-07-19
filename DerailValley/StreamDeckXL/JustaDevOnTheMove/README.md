@@ -51,8 +51,8 @@ That's absolutely fine, we all have different play styles, this worked best for 
 ### There is meaning behind the colours
 
 Some buttons have a coloured background. As a rule of thumb:
-- <img src="../../images/backgrounds/bg-shunt.png" alt="Red" width="20" height="20" /> is optimised for operating in the yard (think red like the shunting type jobs cards)
-- <img src="../../images/backgrounds/bg-freight.png" alt="Red" width="20" height="20" /> is optimised for operations between station (think green like the freight haul type jobs cards)
+- <img src="../../images/backgrounds/bg-solid-red-590000.png" alt="Red" width="20" height="20" /> is optimised for operating in the yard (think red like the shunting type jobs cards)
+- <img src="../../images/backgrounds/bg-solid-green-003f00.png" alt="Red" width="20" height="20" /> is optimised for operations between station (think green like the freight haul type jobs cards)
 
 As such, the movement keys are:
 - <img src="../../images/icons/arrow-right-red.png" alt="Red" width="20" height="20" /> Red direction arrow for sprinting
