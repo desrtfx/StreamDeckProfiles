@@ -16,7 +16,7 @@ A collection of `Stream Deck` profiles for a number of applications.
         <tr>
             <td>Derail Valley<br />- <a href="DerailValley/StreamDeckXL/README.md">Stream Deck XL</a></td>
             <td><br />6 June 2025</td>
-            <td><br />-</td>
+            <td><br />19 July 2025</td>
         </tr>
         <tr>
             <td>Gimp<br />- coming soon</td>

@@ -10,14 +10,16 @@
 - Profile descriptions:
     - [Diesel](#diesel)
         - [DE2](#de2)
-        - DM3 (coming soon)
-        - DH4 (coming soon)
+        - [DM3](#dm3)
+        - [DH4](#dh4)
         - [DE6](#de6)
+        - [DM1U](#dm1u)
     - [Electric](#electric)
-        - BE2 (in progress)
+        - [BE2](#be2)
     - [Steam](#steam)
-        - S060 (coming soon)
-        - S282 (coming soon)
+        - [S060](#s060)
+        - [S282](#s282)
+    - [Other screens](#other-screens)
 - [Download](#download)
 
 ## About these profiles
@@ -70,43 +72,85 @@ So far I've only implemented the DE2 and the DE6. The others will be available a
 
 <img src="v1/screenshots/diesel-01-home.png" alt="Stream Deck XL - Diesel - Homepage" width="425" />
 
-### Jobs folder
 
-The jobs page is accessible from almost everywhere via the top-left corner button. It's very likely that you'll need to adjust the key mapping for these to match your particular gameplay. For example, I don't have access to the world map as I know it be heart, as such it was just taking up unnecessary space and allowed me to have 1 extra job slot (5 → -).
 
-<img src="v1/screenshots/diesel-02-jobs.png" alt="Stream Deck XL - Diesel - Jobs" width="425" />
+
+
+
 
 ### DE2
 
 #### Shunt mode
 
-<img src="v1/screenshots/diesel-03-de2-shunt.png" alt="Stream Deck XL - Diesel - DE2 Shunt" width="425" />
+<img src="v1/screenshots/diesel-11-de2-shunt.png" alt="Stream Deck XL - Diesel - DE2 Shunt" width="425" />
 
 #### Mainline running mode
 
-<img src="v1/screenshots/diesel-04-de2-run.png" alt="Stream Deck XL - Diesel - DE2 Run" width="425" />
+<img src="v1/screenshots/diesel-12-de2-run.png" alt="Stream Deck XL - Diesel - DE2 Run" width="425" />
 
-#### Buttons and switches folder
 
-This folder is accessible via this button: &nbsp;&nbsp;&nbsp;<img src="../../images/icons/switches-combo-icon.png" alt="Buttons" width="20" height="20" />
 
-<img src="v1/screenshots/diesel-05-de2-buttons.png" alt="Stream Deck XL - Diesel - DE2 Buttons" width="425" />
+
+
+
+
+### DM3
+
+#### Shunt mode
+
+<img src="v1/screenshots/diesel-21-dm3-shunt.png" alt="Stream Deck XL - Diesel - DM3 Shunt" width="425" />
+
+#### Mainline running mode
+
+<img src="v1/screenshots/diesel-22-dm3-run.png" alt="Stream Deck XL - Diesel - DM3 Run" width="425" />
+
+
+
+
+
+
+
+### DH4
+
+#### Shunt mode
+
+<img src="v1/screenshots/diesel-31-dh4-shunt.png" alt="Stream Deck XL - Diesel - DH4 Shunt" width="425" />
+
+#### Mainline running mode
+
+<img src="v1/screenshots/diesel-32-dh4-run.png" alt="Stream Deck XL - Diesel - DH4 Run" width="425" />
+
+
+
+
+
+
 
 ### DE6
 
 #### Shunt mode
 
-<img src="v1/screenshots/diesel-06-de6-shunt.png" alt="Stream Deck XL - Diesel - DE6 Shunt" width="425" />
+<img src="v1/screenshots/diesel-41-de6-shunt.png" alt="Stream Deck XL - Diesel - DE6 Shunt" width="425" />
 
 #### Mainline running mode
 
-<img src="v1/screenshots/diesel-07-de6-run.png" alt="Stream Deck XL - Diesel - DE6 Run" width="425" />
+<img src="v1/screenshots/diesel-42-de6-run.png" alt="Stream Deck XL - Diesel - DE6 Run" width="425" />
 
-#### Buttons and switches folder
 
-This folder is accessible via this button: &nbsp;&nbsp;&nbsp;<img src="../../images/icons/switches-combo-icon.png" alt="Buttons" width="20" height="20" />
 
-<img src="v1/screenshots/diesel-08-de6-buttons.png" alt="Stream Deck XL - Diesel - DE6 Buttons" width="425" />
+
+
+
+
+### DM1U
+
+<img src="v1/screenshots/diesel-51-dm1u-poly.png" alt="Stream Deck XL - Diesel - DM1U Poly" width="425" />
+
+
+
+
+
+
 
 ## Electric
 
@@ -116,6 +160,22 @@ Other than the BE2 this profile is just a placehold really until the next update
 
 <img src="v1/screenshots/electric-01-home.png" alt="Stream Deck XL - Electric - Homepage" width="425" />
 
+
+
+
+
+
+
+### BE2
+
+<img src="v1/screenshots/electric-11-be2-poly.png" alt="Stream Deck XL - Electric - BE2 Poly" width="425" />
+
+
+
+
+
+
+
 ## Steam
 
 None of the steam profiles have been setup as I've not ventured into that part of the game yet. I hope to be able to do so soon.
@@ -123,6 +183,93 @@ None of the steam profiles have been setup as I've not ventured into that part o
 ### Home page
 
 <img src="v1/screenshots/steam-01-home.png" alt="Stream Deck XL - Steam - Homepage" width="425" />
+
+
+
+
+
+
+
+### S060
+
+#### Shunt mode
+
+<img src="v1/screenshots/steam-11-s060-shunt.png" alt="Stream Deck XL - Steam - S060 Shunt" width="425" />
+
+#### Mainline running mode
+
+<img src="v1/screenshots/steam-12-s060-run.png" alt="Stream Deck XL - Steam - S060 Run" width="425" />
+
+
+
+
+
+
+
+### S282
+
+#### Shunt mode
+
+<img src="v1/screenshots/steam-21-s282-shunt.png" alt="Stream Deck XL - Steam - S282 Shunt" width="425" />
+
+#### Mainline running mode
+
+<img src="v1/screenshots/steam-22-s282-run.png" alt="Stream Deck XL - Steam - S282 Run" width="425" />
+
+
+
+
+
+
+
+### Other screens
+
+#### Jobs folder
+
+The jobs page is accessible from almost everywhere via the top-left corner button. It's very likely that you'll need to adjust the key mapping for these to match your particular gameplay. For example, I don't have access to the world map as I know it be heart, as such it was just taking up unnecessary space and allowed me to have 1 extra job slot (5 → -).
+
+<img src="v1/screenshots/diesel-02-jobs.png" alt="Stream Deck XL - Diesel - Jobs" width="425" />
+
+
+
+
+
+
+
+#### Switches and Buttons
+
+This folder is accessible via this button: &nbsp;&nbsp;&nbsp;<img src="../../images/icons/switches-combo-icon.png" alt="Buttons" width="20" height="20" />
+
+These folders are specific to the active locomotive, for example:
+
+##### DE2 (doesn't have the bell)
+
+<img src="v1/screenshots/diesel-13-de2-buttons.png" alt="Stream Deck XL - Diesel - DE2 Buttons" width="425" />
+
+##### DE6 (includes the bell)
+
+<img src="v1/screenshots/diesel-43-de6-buttons.png" alt="Stream Deck XL - Diesel - DE6 Buttons" width="425" />
+
+
+
+
+
+
+
+#### Player positioning
+
+In some profiles where space was insufficient, I had to some buttons into a subfolder. In this instance, function like `sit`, `crouch` and `lean` have been moved into a subfolder (icon and screenshot coming very soon).
+
+<!--
+This folder is accessible via this button: &nbsp;&nbsp;&nbsp;<img src="../../images/icons/switches-combo-icon.png" alt="Buttons" width="20" height="20" />
+
+<img src="v1/screenshots/diesel-13-de2-buttons.png" alt="Stream Deck XL - Diesel - DE2 Buttons" width="425" /> -->
+
+
+
+
+
+
 
 ## Download
 
@@ -135,10 +282,10 @@ Once you have done so, you can download the profile here:
     - [Electric](v1/DerailValley-Electric.streamDeckProfile)
     - [Steam](v1/DerailValley-Steam.streamDeckProfile)
 - Latest version as a zip file:
-    - [DerailValley-StreamDeckProfiles-1-0-0.zip](v1/DerailValley-StreamDeckProfiles-1-0-0.zip)
+    - [DerailValley-StreamDeckProfiles-1-1-0.zip](v1/DerailValley-StreamDeckProfiles-1-1-0.zip)
 - Older versions as a zip file:
-    - none yet
+    - [DerailValley-StreamDeckProfiles-1-0-0.zip](v1/DerailValley-StreamDeckProfiles-1-0-0.zip)
 
 ## Into the future
 
-Depending on how Altfuture decide to grow the game, it might be necessary in the future to split the whole setup into a profile for each locomotive. This is due to the limitation of the current Stream Deck to have a maximum of 10 pages, and since my profile philosophy is to use 2 pages per locomotive (operating modes), this leaves me limited to 4 locomotives per fuel type.
+Depending on how Altfuture decide to grow the game, it might be necessary in the future to split the whole setup into a profile for each locomotive. This is due to the limitation of the current Stream Deck to have a maximum of 10 pages, and since my profile philosophy is to use 2 pages per locomotive (operating modes), this leaves me limited to 4 and a half locomotives per fuel type.
