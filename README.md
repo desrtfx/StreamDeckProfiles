@@ -21,9 +21,9 @@ A collection of `Stream Deck` profiles for a number of applications.
             <td><br />19 July 2025</td>
         </tr>
         <tr>
-            <td><img src="./Generic/images/icons/app-gimp.png" alt="Gimp" width="48" /></td>
-            <td>Gimp<br />- coming soon</td>
-            <td><br />-</td>
+            <td><img src="./Gimp/images/icons/app-gimp.png" alt="Gimp" width="48" /></td>
+            <td>Gimp<br />- <a href="Gimp/StreamDeckXL/README.md">Stream Deck XL</a></td>
+            <td><br />20 July 2025</td>
             <td><br />-</td>
         </tr>
         <tr>
