@@ -7,7 +7,7 @@ A collection of `Stream Deck` profiles for a number of applications.
 <table>
     <thead>
         <tr>
-            <th width="48">Icon</th>
+            <th width="75">Icon</th>
             <th>Title</th>
             <th>Created</th>
             <th>Updated</th>
