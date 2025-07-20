@@ -38,13 +38,13 @@ Just to name one example, the `DE6` has dynamic braking, whereas the `DE2` does 
 
 The reason for having 2 pages per locomotive is because I wanted to optimise the controls for the operation in progress (shunting vs. main line running). This is because, while driving between stations there is no need, for example, to have access to the reverser and toggling it accidentally while in motion has serious consequences! In the rare occasion that you do need to access the reverser, it's only 1 extra button press away since switching between the two modes of operation is extremely easy.
 
-#### Why are there 2 types of blanks visible in the screenshots?
+<!-- #### Why are there 2 types of blanks visible in the screenshots?
 
 There are some blank grey buttons and some blank black buttons in the screenshots shown.
 Once installed, you won't notice any difference between the two, both look blank and perform no action.
 The only difference is that:
 - The grey ones are simply unused buttons that are waiting for you to add your own funtionality.
-- The black ones are actively hiding pinned buttons. If you delete a blank black, a pinned button may appear in its place.
+- The black ones are actively hiding pinned buttons. If you delete a blank black, a pinned button may appear in its place. -->
 
 #### I don't like your key layout!
 
@@ -258,12 +258,9 @@ These folders are specific to the active locomotive, for example:
 
 In some profiles where space was insufficient, I had to some buttons into a subfolder. In this instance, function like `sit`, `crouch` and `lean` have been moved into a subfolder accessible via this button: &nbsp;&nbsp;&nbsp;<img src="../../images/icons/submenu-user-positions.png" alt="Buttons" width="32" height="32" />
 
-(screenshot coming very soon).
+<img src="v1/screenshots/steam-13-s060-user.png" alt="Stream Deck XL - Steam - S060 User Positioning" width="425" />
 
-<!--
-This folder is accessible via this button: &nbsp;&nbsp;&nbsp;<img src="../../images/icons/switches-combo-icon.png" alt="Buttons" width="20" height="20" />
-
-<img src="v1/screenshots/diesel-13-de2-buttons.png" alt="Stream Deck XL - Diesel - DE2 Buttons" width="425" /> -->
+I wish it was possible to put the orange exit button just below the crouch/kneel button (row 3, column 4) as it would make it easier to just very quickly toggle between the 2 screens. But sadly, the Stream Deck software doesn't allow it.
 
 
 
