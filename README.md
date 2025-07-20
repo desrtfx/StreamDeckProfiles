@@ -7,6 +7,7 @@ A collection of `Stream Deck` profiles for a number of applications.
 <table>
     <thead>
         <tr>
+            <th width="48">Icon</th>
             <th>Title</th>
             <th>Created</th>
             <th>Updated</th>
@@ -14,47 +15,56 @@ A collection of `Stream Deck` profiles for a number of applications.
     </thead>
     <tbody>
         <tr>
+            <td><img src="./DerailValley/images/icons/app-derail-valley.png" alt="Derail Valley" width="48" /></td>
             <td>Derail Valley<br />- <a href="DerailValley/StreamDeckXL/README.md">Stream Deck XL</a></td>
             <td><br />6 June 2025</td>
             <td><br />19 July 2025</td>
         </tr>
         <tr>
+            <td><img src="./Generic/images/icons/app-gimp.png" alt="Gimp" width="48" /></td>
             <td>Gimp<br />- coming soon</td>
             <td><br />-</td>
             <td><br />-</td>
         </tr>
         <tr>
+            <td><img src="./Infinifactory/images/icons/app-infinifactory.png" alt="Infinifactory" width="48" /></td>
             <td>Infinifactory<br />- <a href="Infinifactory/StreamDeckXL/README.md">Stream Deck XL</a></td>
             <td><br />28 June 2025</td>
             <td><br />-</td>
         </tr>
         <tr>
+            <td><img src="./OxygenNotIncluded/images/icons/app-oxygen.png" alt="Oxygen Not Include" width="48" /></td>
             <td>Oxygen Not Included<br />- <a href="OxygenNotIncluded/StreamDeckXL/README.md">Stream Deck XL</a></td>
             <td><br />15 July 2025</td>
             <td><br />-</td>
         </tr>
         <tr>
+            <td><img src="./Railgrade/images/icons/app-railgrade.png" alt="Railgrade" width="48" /></td>
             <td>Railgrade<br />- <a href="Railgrade/StreamDeckXL/README.md">Stream Deck XL</a></td>
             <td><br />4 July 2025</td>
             <td><br />-</td>
         </tr>
         <tr>
+            <td><img src="./Shapez2/images/icons/app-shapez2.png" alt="Shapez2" width="48" /></td>
             <td>Shapez2<br />- <a href="Shapez2/StreamDeckXL/README.md">Stream Deck XL</a></td>
             <td><br />27 June 2025</td>
             <td><br />-</td>
         </tr>
         <tr>
+            <td><img src="./Timberborn/images/icons/app-timberborn.png" alt="Timberborn" width="48" /></td>
             <td>Timberborn<br />- <a href="Timberborn/StreamDeckXL/README.md">Stream Deck XL</a></td>
             <td><br />27 June 2025</td>
             <td><br />29 June 2025</td>
         </tr>
         <tr>
+            <td><img src="./TransportFever2/images/icons/app-transport-fever-2.png" alt="Transport Fever 2" width="48" /></td>
             <td>Transport Fever 2<br />- <a href="TransportFever2/StreamDeckXL/README.md">Stream Deck XL</a></td>
             <td><br />19 July 2025</td>
             <td><br />-</td>
         </tr>
         <tr>
             <td colspan="2"><br />Also available: <a href="Generic/README.md">a generic collection of icons and backgrounds</a></td>
+            <td><br />15 July 2025</td>
             <td><br />15 July 2025</td>
         </tr>
     </tbody>
@@ -78,7 +88,7 @@ Alternatevely, you can <a href="https://help.elgato.com/hc/en-us/articles/360048
 
 As per the [license](LICENSE.md), you're free to modify the profiles as you see fit in order to tailor them to your specific work/play style and specific key mappings.
 
-Although all icons are extractable directly from the profile files, for your convenience, all icons used (and sometimes more) are available directly in the `icons` directory of each application. There are also a number of backgrounds availble in the `backgrounds` directory of each application, these are useful for customising your text buttons.
+Although all icons are extractable directly from the profile files, for your convenience, all icons used (and sometimes more) are available directly in the `images/icons` directory of each application. There are also a number of backgrounds availble in the `images/backgrounds` directory of each application, these are useful for customising your text buttons.
 
 ## Feedback, Issues & Requests
 
