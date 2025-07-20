@@ -8,6 +8,8 @@ The [`backgrounds`](images/backgrounds/) images are intended to be used as backg
 
 The [`icons`](images/icons/) images are intended to be used instead of text buttons.
 
+> If you happen to notice that the icons in this collection all appear to be very slighty ofset to the right, you're not going crazy and you're not seeing crooked, this is intentional. For some odd reason, at least it is the case with my Stream Deck XL, the left couple of pixels are invisible/hidden. So, in order to make the icon display in the center of the button, I have had to offset everything accordingly. You can check this yourself by loading <a href="./images/icons/stream-deck-button-analyser-left.png">this icon</a> onto one of your keys to see which segments are visible, for me the markers start to become visible from 7 and above.
+
 ## Table of contents
 
 - [Plain backgrounds](#plain-backgrounds)
