@@ -60,7 +60,7 @@ A collection of `Stream Deck` profiles for a number of applications.
             <td><img src="./TransportFever2/images/icons/app-transport-fever-2.png" alt="Transport Fever 2" width="48" /></td>
             <td>Transport Fever 2<br />- <a href="TransportFever2/StreamDeckXL/README.md">Stream Deck XL</a></td>
             <td><br />19 July 2025</td>
-            <td><br />-</td>
+            <td><br />23 July 2025</td>
         </tr>
         <tr>
             <td colspan="2"><br />Also available: <a href="Generic/README.md">a generic collection of icons and backgrounds</a></td>
